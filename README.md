@@ -1,2 +1,11 @@
-# Basics-HTML-CSS-JS
-learning javaScript
+<DOCTYPE html> 
+<htmi> 
+chead> 
+<title>My Page Title/itle> 
+<link rel-"Icon" tvpe="image/x ICon" href-"/images/favicon.Jco'> 
+</head> 
+<body> 
+<h1>This is a Heading</h1> 
+<p>This is a paragraph </p> 
+</body> 
+</ntml>
